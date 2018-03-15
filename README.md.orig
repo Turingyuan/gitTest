@@ -1,0 +1,7 @@
+# gitTest
+test how to use git
+<<<<<<< HEAD
+local add message
+=======
+origin add nessage
+>>>>>>> 8fce5b54620e63fbc70b7a34f687454422e72dd8
